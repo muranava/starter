@@ -7,6 +7,6 @@ title: fedwiki is happening
 
 ## what is fedwiki?
 
-an event, a spectacle, a hippie commune, radical blog theatre? 
-federated thought vectors scaling up
-rattling the forks making the markdown
+<p>an event, a spectacle, a hippie commune, radical blog theatre? 
+<p>federated thought vectors scaling up
+<p>rattling the forks making the markdown
